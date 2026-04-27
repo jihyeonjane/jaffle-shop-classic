@@ -66,5 +66,5 @@ final as (
 
 )
 
-select * 
-from final
+select * from final
+where 1=1
