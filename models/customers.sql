@@ -67,3 +67,4 @@ final as (
 )
 
 select * from final
+where 1=1
